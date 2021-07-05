@@ -1,0 +1,5 @@
+建置C語言環境
+https://junyou.tw/vscode-c/
+
+https://code.visualstudio.com/docs/languages/cpp
+https://kknews.cc/zh-tw/code/kleyarb.html
