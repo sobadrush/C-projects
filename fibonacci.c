@@ -36,7 +36,10 @@ void listAllFibNumber(int nn, int *arr){
 int main(){
 
     // //  1 1 2 3 5 8 13 ...
-    int num = 10;
+    int num;
+    printf("Please input a Fibonacci Level : ");
+    scanf("%d", &num);
+
     int *arr = malloc (sizeof (int) * num);
     listAllFibNumber(num, arr);
     // printf("Fibonacci : %d\n", fibonacciRec(5));
