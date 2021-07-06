@@ -46,5 +46,6 @@ int main(){
     }
 
     printf(" \n === Fibonacci Done === \n ");
+    system("pause");
     return 0;
 }
